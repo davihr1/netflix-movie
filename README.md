@@ -1,7 +1,7 @@
 ## design css 
 ## Projeto: Techions+ /netflix
 
-![](././github/Capturadaweb_localhost.jpeg)
+![](./.github/Capturadaweb_localhost.jpeg)
 ===
 
 ### :computer: Tecnologias:
