@@ -1,3 +1,30 @@
+## design css 
+## Projeto: Techions+ /netflix
+## folder: 02,
+![](./.githuCapturadaweb_localhost.jpeg)
+===
+
+### :computer: Tecnologias:
+- Nextjs
+- CSS module
+
+### Criador: [Davi_HR]
+===
+
+---
+ - utilizei nextjs para entender como funciona.
+
+ - parte do projeto fontend (fullstack)
+
+ - app depois do nlw4 da rocketseat 
+---
+
+---
+***</>*** **by [Davi_hr_Silva_Favaro](https://github.com/davifa1)**
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
