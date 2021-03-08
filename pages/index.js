@@ -5,59 +5,36 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Create Next App</title>
+        <title>Netflix</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
+      <header className={styles.header}>
+        <img src="/Netflix_logo.png" alt="logo netflix" />
+      </header>
+
       <main className={styles.main}>
-        <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
-        </h1>
 
-        <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
-        </p>
+      <div>
+      <img src="https://mlpnk72yciwc.i.optimole.com/w:857/h:1200/q:auto/https://www.bleedingcool.com/wp-content/uploads/2019/05/lucifer-11.jpg" alt="lucifer" />
+      <img src="https://occ-0-299-300.1.nflxso.net/art/9e56b/16197aced1049174c47f958b0c5b46e20da9e56b.jpg" alt="la casa de papel" />
+      <img src="https://th.bing.com/th/id/OIP.MUdd12Qmovr9o_sCJ3wDHwHaK9?pid=ImgDet&rs=1" alt="fate winx" className={styles.ut}/>
+      </div>
 
-        <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
-            <h3>Documentation &rarr;</h3>
-            <p>Find in-depth information about Next.js features and API.</p>
-          </a>
+      <div className={styles.title}>
+        <h1>Filmes, séries e muito mais. Sem limites.</h1>
+        <h4>Assista onde quiser. Cancele quando quiser</h4>
+      </div>
 
-          <a href="https://nextjs.org/learn" className={styles.card}>
-            <h3>Learn &rarr;</h3>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
-          </a>
-
-          <a
-            href="https://github.com/vercel/next.js/tree/master/examples"
-            className={styles.card}
-          >
-            <h3>Examples &rarr;</h3>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
-          </a>
-
-          <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-            className={styles.card}
-          >
-            <h3>Deploy &rarr;</h3>
-            <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
-            </p>
-          </a>
-        </div>
       </main>
 
       <footer className={styles.footer}>
         <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+          href="https://netflix.com/br"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by{' '}
-          <img src="/vercel.svg" alt="Vercel Logo" className={styles.logo} />
+          Entrar
         </a>
       </footer>
     </div>
